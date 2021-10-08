@@ -61,6 +61,7 @@ Signed,
  * Ave Ozkal, Luna Mendes, **a3.pm** (https://a3.pm/xmpp.html)
  * Stefan Giebel, **blabber.im** (https://blabber.im/)
  * Thomas Camaran, **chatme.im** (https://chatme.im/)
+ * Roger Duckworth, **chat.tofu.kim** (https://chat.tofu.kim)
  * Mathias Ertl, **jabber.at** (https://jabber.at)
  * Emmanuel Gil Peyrot, Mathieu Pasquet, **jabber.fr** (https://jabberfr.org)
  * Stian B. Barmen **jabber.no** (https://www.jabber.no/)
